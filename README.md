@@ -1,4 +1,4 @@
-<h1>Hi, I'm Earl! <br/><a href="https://online.nvdoe.org/#/VerifyLicense">Life-Long Learner</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Student</a>, <a href="https://www.youtube.com/c/joshmadakor">Educator</a></h1>
+<h1>Hi, I'm Earl! <br/><a href="https://online.nvdoe.org/#/VerifyLicense">Life-Long Learner</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Analyst Prospect</a>, <a href="https://www.youtube.com/c/joshmadakor">Information Technology Technician</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
