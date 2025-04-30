@@ -4,8 +4,9 @@
 
 - <b>Cybersecurity Projects </b>
   - [Creating a live Azure/Honeynet Security Operations center (S.O.C)](https://github.com/earleandre/Azure-Honeynet-Project)
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+  - [Try Cyber Security Operations Projects/Tasks](https://github.com/user-attachments/assets/7e457033-7035-465c-a419-faac7f11b60e)
+)
+
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
