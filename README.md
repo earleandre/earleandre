@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Cybersecurity Tasks & Projects:</h2>
 
 - <b>Cybersecurity Projects </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Azure/Honeynet Security Operations center (S.O.C)](![image](https://github.com/user-attachments/assets/3598c95e-64de-45d7-8e92-3f65203c1871))
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
