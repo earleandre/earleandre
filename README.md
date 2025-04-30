@@ -4,7 +4,7 @@
 
 - <b>Cybersecurity Projects </b>
   - [Creating a live Azure/Honeynet Security Operations center (S.O.C)](https://github.com/earleandre/Azure-Honeynet-Project)
-  - [Try Cyber Security Operations Challenges](https://github.com/user-attachments/assets/7e457033-7035-465c-a419-faac7f11b60e)(https://github.com/user-attachments/assets/162cdf6d-c06b-44be-b979-62b7714b7b03)(https://github.com/user-attachments/assets/5d05e985-dc9b-4f4e-a8c7-08961dc9af57)
+  - [Try Cyber Security Operations Challenges](https://github.com/user-attachments/assets/7e457033-7035-465c-a419-faac7f11b60e)
 
 
 
