@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Cybersecurity Tasks & Projects:</h2>
 
 - <b>Cybersecurity Projects </b>
-  - [Azure/Honeynet Security Operations center (S.O.C)]([![image](![image]([https://github.com/user-attachments/assets/3598c95e-64de-45d7-8e92-3f65203c1871](https://github.com/earleandre/Azure-Honeynet-Project)](https://github.com/earleandre/Azure-Honeynet-Project))
+  - [Azure/Honeynet Security Operations center (S.O.C)]([https://github.com/user-attachments/assets/3598c95e-64de-45d7-8e92-3f65203c1871](https://github.com/earleandre/Azure-Honeynet-Project)
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
