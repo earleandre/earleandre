@@ -21,9 +21,8 @@
   - [Governance, Risk, & Compliance Analyst Master Class - Simply Cyber Academy](https://simplycyber.teachable.com/courses/1592799/certificate)
   - [Technical Support Fundamentals by Google - Coursera](https://coursera.org/share/bd17b6cb5d8901a256026620ca18def1)
   - [Cybersecurity Fundamentals - IBM](https://www.credly.com/badges/bf178fa0-916f-4429-8e0b-c22683e39c30/public_url)
-  - [Vulnerability Management (VM) Foundation - Qualys](https://qualys.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D24%26UserMode%3D0))
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+  - [Vulnerability Management (VM) Foundation - Qualys](https://qualys.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D24%26UserMode%3D0)
+
 
 <h2> 🤳 Connect with me:</h2>
 
