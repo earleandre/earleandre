@@ -13,21 +13,15 @@
 
 
 
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithim
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- <b>Cybersecurity Certificates</b>
+  - [CyberSecurity Analyst Certificate - University of Nevada, Las Vegas](https://github.com/user-attachments/assets/b99fc66b-9d5b-4b6d-94f8-cd0113d21806)
+  - [Security Operations Center Analyst Cerficate - TryHackMe](https://www.linkedin.com/in/earl-harris-elh/details/certifications/1635554113335/single-media-viewer?type=IMAGE&profileId=ACoAABXxSiIBCWcoVcLUuaIexKR82AbdNg7o21o&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bzsbu9hs5SrSuW0HJAAA7ZA%3D%3D))
+  - [Information Technology (IT) and Cloud Fundamentals - Coursera](https://coursera.org/share/700c65d24e71884d69f98b588a53111d)
+  - [IBM IT Support Specialization - Coursera](https://coursera.org/share/b29b18fb1c4714a8bd01cbcbcb50bae4))
+  - [Governance, Risk, & Compliance Analyst Master Class - Simply Cyber](https://simplycyber.teachable.com/courses/1592799/certifi
+  - [Technical Support Fundamentals by Google - Coursera](https://coursera.org/share/bd17b6cb5d8901a256026620ca18def1))
+  - [Cybersecurity Fundamentals - IBM](https://www.credly.com/badges/bf178fa0-916f-4429-8e0b-c22683e39c30/public_url))
+  - [Vulnerability Management (VM) Foundation - Qualys](https://qualys.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D24%26UserMode%3D0))
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
