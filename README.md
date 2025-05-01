@@ -1,36 +1,4 @@
-<h1>Hi, I'm Earl! <br/><a href="https://online.nvdoe.org/#/VerifyLicense">I am a Cybersecurity Analyst prospect</a>, <a href="https://www.linkedin.com/in/joshmadakor/">a Information Technologny recruit</a>, <a href="https://www.youtube.com/c/joshmadakor">plus a "Life-Long" learner"From Physical Security to Cloud Defense: Building Proactive Cyber Resilience"
-My career has been defined by protecting critical infrastructure—whether managing rail logistics or public transit—now extended into cloud security through hands-on projects and certifications:
-
-Live Azure/Honeypot SOC Project (Cloud Threat Detection & Incident Response)
-
-Deployed a simulated enterprise network in Azure, integrating:
-
-Honeynets to attract and analyze attacker behavior (Kali Linux, Metasploit).
-
-Microsoft Sentinel (SIEM) for log aggregation, alerting, and automated playbooks.
-
-Defensive hardening (NSG rules, Azure Firewall, MFA enforcement).
-
-Relevance: Direct experience with **cloud-native SOC tools, attack surface reduction, and Microsoft’s security stack*.
-
-Manager of Yard Operations, Union Pacific Railroad (Cloud Asset Governance & Zero Trust)
-
-Enforced strict access controls for 10,000+ rail assets (RFID/GPS tracking).
-
-Parallel to cloud: Tagging/monitoring Azure resources to prevent shadow IT or overprivileged access.
-
-Road Supervisor, Veolia Transportation (Real-Time Monitoring → Cloud SIEM)
-
-Used real-time telemetry to detect transit anomalies (e.g., route deviations).
-
-Mirrors: Investigating Azure Sentinel alerts for **suspicious logins or data exfiltration*.
-
-Technical Credibility:
-
-Security+ (In Progress) – Studying core concepts (threats/vulnerabilities, PKI, risk management).
-
-Tool Exposure: Azure Defender, Sentinel, NIST CSF, and MITRE ATT&CK framework.
-
+<h1>Hi, I'm Earl! <br/><a href="https://online.nvdoe.org/#/VerifyLicense">I am a Cybersecurity Analyst prospect</a>, <a href="https://www.linkedin.com/in/joshmadakor/">a Information Technologny recruit</a>, <a href="https://www.youtube.com/c/joshmadakor">plus a "Life-Long" learner
 </a></h1>
 
 <h2>👨‍💻 My Cybersecurity Tasks & Projects:</h2>
