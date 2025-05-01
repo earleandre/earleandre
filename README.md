@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Cybersecurity Tasks & Projects:</h2>
 
 - <b>Cybersecurity Projects </b>
-  - [Creating a live Azure/Honeynet Security Operations center (S.O.C)](https://github.com/earleandre/Azure-Honeynet-Project)
+  - [Creating a live Azure/Honeynet Security Operations Center (S.O.C)](https://github.com/earleandre/Azure-Honeynet-Project)
   - [Try Cyber Security Operations Challenges 1-6](https://github.com/user-attachments/assets/7e457033-7035-465c-a419-faac7f11b60e)
   - [Try Cyber Security Operations Challenges 7-12](https://github.com/user-attachments/assets/3703566f-5762-4574-a8db-611d2fbf3582)
   - [Try Cyber Security Operations Challenges 13-14](https://github.com/user-attachments/assets/998da376-4acf-4f10-b51c-f93cbe5e0cc8)
